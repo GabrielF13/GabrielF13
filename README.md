@@ -1,6 +1,6 @@
 ## Olá, me chamo Gabriel Ferreira 
 
-- 🔭 Atualmente eu apenas estudo
+- 🔭 Estudante assiduo, louco por técnologia
 - 🌱 Estou estudando JavaScript
 - ✉  Gabrielferreiracunha@gmail.com
 
