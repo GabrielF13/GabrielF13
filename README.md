@@ -1,6 +1,6 @@
 ## Olá, me chamo Gabriel Ferreira 
 
-- 🔭 Estudante assíduo, louco por técnologia
+- 🔭 Estudante assíduo
 - 🌱 Estou estudando C#
 - ✉  Gabrielferreiracunha@gmail.com
 
