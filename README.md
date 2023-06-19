@@ -1,7 +1,7 @@
 ## Olá, me chamo Gabriel Ferreira 
 
-- 🔭 Estudante assíduo
-- 🌱 Estou estudando C#
+- 🔭 Dev. BackEnd
+- 🌱 Atualmente trabalho com C#
 - ✉  Gabrielferreiracunha@gmail.com
 
 <div align="center">
