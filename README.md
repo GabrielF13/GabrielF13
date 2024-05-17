@@ -1,4 +1,4 @@
-## Olá, me chamo Gabriel Ferreira 
+## Olá, me chamo Gabriel Ferreira.
 
 - 🔭 Dev. BackEnd
 - 🌱 Atualmente trabalho com C#
